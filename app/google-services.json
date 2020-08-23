@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "210058312132",
+    "firebase_url": "https://testing-e63d1.firebaseio.com",
+    "project_id": "testing-e63d1",
+    "storage_bucket": "testing-e63d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210058312132:android:6696a89e8239a624",
+        "android_client_info": {
+          "package_name": "com.example.testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210058312132-i25ji1f93kbgt0jli27fmnlssb3k7sb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGIWD5dzkO4FBWucEeDJiOwdQXNI64FmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210058312132-i25ji1f93kbgt0jli27fmnlssb3k7sb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210058312132:android:f3a6b85c7a9d9d0c",
+        "android_client_info": {
+          "package_name": "com.example.testing_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210058312132-i25ji1f93kbgt0jli27fmnlssb3k7sb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGIWD5dzkO4FBWucEeDJiOwdQXNI64FmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210058312132-i25ji1f93kbgt0jli27fmnlssb3k7sb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210058312132:android:d74a2260a968d8fdb00c91",
+        "android_client_info": {
+          "package_name": "com.kirtuaishik.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210058312132-i25ji1f93kbgt0jli27fmnlssb3k7sb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGIWD5dzkO4FBWucEeDJiOwdQXNI64FmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210058312132-i25ji1f93kbgt0jli27fmnlssb3k7sb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

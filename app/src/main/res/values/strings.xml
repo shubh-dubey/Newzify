@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Newzify</string>
+    <string name="main">Newzify</string>
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="ad_app_icon">ad app Icon</string>
+    <string name="nativeId">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="choose_country">CHOOSE COUNTRY</string>
+    <string name="india">INDIA</string>
+    <string name="usa">USA</string>
+    <string name="textview">TextView</string>
+    <string name="news_image">News Image</string>
+</resources>
